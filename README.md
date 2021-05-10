@@ -1,1 +1,1 @@
-# chinguuns-pacman.github.io
+ https://chinguuns-pacman.github.io
